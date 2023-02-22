@@ -1,0 +1,42 @@
+a{
+    text-decoration: none;
+}
+.navbar{
+    box-shadow: 0 0 .6em .0005em #444;
+    font-family: 'Tilt Neon', 'cursive';
+    font-size: .7em;
+}
+.nav-item a{ 
+    color: #3c98e0;
+}
+.navText{
+    color: #3c98e0;
+}
+.nav-item a[href="#"]{
+    color: #8102ce !important;
+}
+.bannerButton{
+    background-color: #0431b8;
+    border-radius: 3em;
+}
+.bannerButton a{
+    font-size: 1em;
+}
+.bannerImg{
+    position: relative;
+}
+.insignia{
+    background-color: #1e73be;
+    position: absolute;
+    border-radius: 1em;
+    top:5em;
+    right: -1em;
+}
+.insignia svg{
+    margin: .5em;
+    background-color: #fff;
+    border-radius: 50%;
+}
+.insigniaText{
+    color: #fff;
+}
